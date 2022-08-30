@@ -1,0 +1,58 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit';
+    text-align: center;
+}
+p{
+    color: hsl(215, 51%, 70%);
+    font-size: 1.125rem;
+    width: 89%;
+    margin: 0 auto;
+    text-align: left;
+    padding: 0px 5px 35px 5px;
+
+}
+h1{
+    color: hsl(0, 0%, 100%);
+    width: 85%;
+    font-size:  1.22rem; 
+    text-align: left;
+    padding: 25px 5px 15px 5px;
+    margin: auto;
+    font-family: 'Outfit';
+}
+h3{
+    color: hsl(178, 100%, 50%);
+    font-size: 1rem;
+}
+span{
+    color: hsl(215, 51%, 70%);
+}
+.container{
+    margin: 10% auto;
+    width:22%;
+    background-color:hsl(216, 50%, 16%) ;
+    border-radius: 15px;
+}
+.first-image{ 
+    position: relative;
+    bottom: 10px;
+    width: 92%;
+    top: 10px;
+    border-radius: 15px;
+}
+.profile-image{
+    position: relative;
+    right: 20px;
+    border: 1px hsl(0, 0%, 100%) solid;
+    border-radius: 100px;
+    width: 12%;
+}
+hr{
+    width: 85%;
+    color:hsl(215, 51%, 70%) ;
+
+}
+span{
+    top: 0;
+}
